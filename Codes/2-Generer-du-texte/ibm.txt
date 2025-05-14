@@ -1,0 +1,125 @@
+L'IA et l'automatisation ont permis de réduire le cycle de vie des violations de 108 jours ; 470 000 dollars de coûts supplémentaires pour les victimes de ransomware qui échappent aux autorités ; seul un tiers des organisations ont détecté la violation par leurs propres moyens
+ 
+CAMBRIDGE, Mass, le 24 juillet 2023 : IBM (NYSE : IBM) Security a publié aujourd'hui son rapport annuel sur le coût d'une violation de données[1], montrant que le coût moyen mondial d'une violation de données a atteint 4,45 millions de dollars en 2023 - un record historique pour le rapport et une augmentation de 15 % au cours des trois dernières années. Les coûts de détection et d'escalade ont bondi de 42 % au cours de cette même période, ce qui représente la part la plus élevée des coûts de violation, et indique une évolution vers des travaux d’investigation plus complexes sur les violations.
+
+Selon le rapport 2023 d'IBM, les entreprises sont divisées sur la manière dont elles prévoient de gérer le coût et la fréquence croissants des violations de données. L'étude révèle que si 95 % des entreprises étudiées ont subi plus d'une violation, les entreprises victimes de violations sont plus susceptibles de répercuter les coûts des incidents sur les consommateurs (57 %) que d'augmenter leurs investissements en matière de sécurité (51 %).
+
+Le rapport 2023 sur le coût d'une violation de données est basé sur une analyse approfondie des violations de données réelles subies par 553 organisations dans le monde entre mars 2022 et mars 2023. La recherche, sponsorisée et analysée par IBM Security, a été menée par Ponemon Institute et a été publiée pendant 18 années consécutives. Voici quelques-unes des principales conclusions du rapport 2023 d'IBM :
+* L'IA aide à être plus rapide - L'IA et l'automatisation ont eu le plus grand impact sur la vitesse d'identification et d'endiguement des violations pour les organisations étudiées. Les entreprises ayant largement recours à l'IA et à l'automatisation ont connu un cycle de vie des violations de données plus court de 108 jours par rapport aux organisations étudiées n'ayant pas déployé ces technologies (214 jours contre 322 jours).
+* Le coût du silence - Les victimes de ransomware dans l’étude qui ont fait appel aux autorités ont économisé 470 000 dollars en coûts moyens de violation par rapport à celles qui ont choisi de ne pas y faire appel. Malgré ces économies potentielles, 37 % des victimes de ransomware étudiées n'ont pas fait appel aux autorités lors d'une attaque par ransomware.
+* Lacunes en matière de détection - Seul un tiers des violations étudiées ont été détectées par l'équipe de sécurité de l'organisation, alors que 27 % ont été divulguées par un pirate. Les violations de données divulguées par un pirate coûtent en moyenne près d'un million de dollars de plus que celles des organisations étudiées qui ont identifié elles-mêmes la violation.
+ 
+« Tout est une question de temps … Plus on met de temps à détecter une intrusion grave, plus l’impact est fort et coûteux, il faut donc mettre en œuvre de nouvelles approches » a déclaré Stéphanie Talaud, Directrice IBM Security Software France. « Il n’est plus suffisant de réagir, il faut pouvoir prédire au mieux et anticiper pour agir plus vite, de manière proactive et Les solutions d’IA et d’automatisation peuvent s’avérer être un atout majeur pour cela ».
+ 
+Chaque seconde coûte
+Selon le rapport 2023, les organisations étudiées qui déploient pleinement l'IA et l'automatisation dans le domaine de la cybersécurité ont vu leur cycle de vie des violations raccourci de 108 jours en moyenne par rapport aux organisations qui ne déploient pas ces technologies - et ont connu des coûts d'incident nettement inférieurs. Les organisations étudiées qui ont largement déployé l'IA et l'automatisation dans le domaine de la sécurité ont constaté, en moyenne, une réduction de près de 1,8 million de dollars des coûts liés aux violations de données par rapport aux organisations qui n'ont pas déployé ces technologies, ce qui représente la plus grande économie de coûts identifiée par l’étude.
+ 
+Dans le même temps, les adversaires ont réduit le temps moyen nécessaire pour mener à bien une attaque par ransomware. Et comme près de 40 % des organisations étudiées n'ont pas encore déployé l'IA et l'automatisation appliquées à la cybersécurité, il existe encore des possibilités considérables pour les organisations d'améliorer les vitesses de détection et de réponse.
+ 
+Comment réduire le coût d’un ransomware facilement ?
+Certaines organisations étudiées hésitent encore à faire appel aux autorités lors d'une attaque par ransomware, car elles pensent que cela ne fera que compliquer la situation. Pour la première fois cette année, le rapport d'IBM a examiné cette question de plus près et a trouvé des preuves du contraire. Les organisations participantes qui n'ont pas fait appel aux autorités ont connu des cycles de vie des violations plus longs de 33 jours en moyenne que celles qui l’ont fait - et ce silence a eu un prix. Les victimes de ransomware étudiées qui n'ont pas fait appel aux autorités ont payé en moyenne 470 000 dollars de plus que celles qui l'ont fait.
+ 
+Malgré les efforts déployés par les autorités pour collaborer avec les victimes de ransomware, 37 % des personnes interrogées ont choisi de ne pas les faire intervenir. De plus, près de la moitié (47 %) des victimes de ransomware étudiées auraient payé la rançon. Il est clair que les organisations devraient abandonner ces idées fausses sur les ransomwares. Le fait de payer une rançon et d'éviter les autorités ne peut qu'augmenter les coûts de l'incident et ralentir la réponse.
+ 
+Les équipes de sécurité découvrent rarement les violations elles-mêmes
+La détection et la réponse aux menaces ont progressé. Selon l'indice 2023 Threat Intelligence Index d'IBM (rapport sur le paysage mondial des menaces), les défenseurs ont réussi à stopper une plus grande proportion d'attaques par ransomware l'année dernière. Cependant, les attaquants trouvent encore des moyens de passer à travers les mailles du filet de la défense. L’étude indique que seule une violation étudiée sur trois a été détectée par les propres équipes ou outils de sécurité de l'organisation, tandis que 27 % de ces violations ont été révélées par un attaquant et 40 % par une tierce partie neutre telle que les autorités.
+ 
+Les organisations interrogées qui ont découvert elles-mêmes la violation ont subi des coûts inférieurs de près d'un million de dollars à ceux des organisations dont la violation a été révélée par un pirate (5,23 millions de dollars contre 4,3 millions de dollars). Les violations divulguées par un pirate ont également eu un cycle de vie plus long de près de 80 jours (320 contre 241) par rapport à ceux qui ont identifié la violation en interne.  Les importantes économies de temps et d'argent réalisées grâce à la détection précoce montrent que l'investissement dans ces stratégies peut s'avérer payant à long terme.
+ 
+Parmi les autres conclusions du rapport 2023 d'IBM, on peut citer :
+* Violation de données dans plusieurs environnements - Près de 40 % des violations de données étudiées ont entraîné la perte de données dans des environnements IT variés, notamment dans les Clouds publics, les Clouds privés et en local, ce qui montre que les attaquants ont pu compromettre plusieurs environnements tout en évitant d'être détectés. Les violations de données étudiées qui ont touché plusieurs environnements à la fois ont également entraîné des coûts de violation plus élevés (4,75 millions de dollars en moyenne).
+* Les coûts des violations dans le secteur de la santé continuent de grimper en flèche - Les coûts moyens d'une violation étudiée dans le secteur de la santé ont atteint près de 11 millions de dollars en 2023, soit une augmentation de 53 % par rapport à 2020. Les cybercriminels ont commencé à rendre les données volées plus accessibles aux victimes en aval, selon le rapport 2023 X-Force Threat Intelligence Report. Avec les dossiers médicaux comme levier, les acteurs de la menace amplifient la pression sur les organisations victimes de violations pour qu'elles paient une rançon. En fait, dans tous les secteurs d'activité étudiés, les informations d'identification personnelle des clients sont le type d'enregistrement le plus fréquemment violé et le plus coûteux. 
+* L'avantage DevSecOps - Les organisations étudiées dans tous les secteurs d'activité ayant un niveau élevé de DevSecOps ont vu le coût moyen global d'une violation de données inférieur de près de 1,7 million de dollars à celui des organisations étudiées ayant un niveau faible de DevSecOps ou n'utilisant pas ce type d’approche.
+* Les coûts de violation des infrastructures critiques dépassent les 5 millions de dollars - Les organisations étudiées ayant des infrastructures critiques ont connu une augmentation de 4,5 % des coûts moyens d'une violation par rapport à l'année dernière - passant de 4,82 millions de dollars à 5,04 millions de dollars - soit 590 000 dollars de plus que la moyenne mondiale.
+ 
+Sources additionnelles :
+* Pour télécharger une copie du rapport 2023 sur le coût d'une violation de données : https://www.ibm.com/security/data-breach.
+* Pour en savoir plus sur les principales conclusions du rapport, consultez le blog d'IBM Security Intelligence.
+* Inscrivez-vous au webinaire 2023 sur le coût d'une violation de données, qui aura lieu le mardi 1er août 2023, à 17 h 00 en cliquant ici.
+* Contactez l'équipe IBM Security X-Force pour une présentation personnalisée des conclusions du rapport : https://ibm.biz/book-a-consult.
+* Pour une analyse plus approfondie des recommandations du rapport : Cost of a Data breach Action Guide.
+ 
+À propos d’IBM Security
+IBM Security aide à sécuriser les plus grandes entreprises et les gouvernements du monde entier grâce à un portefeuille intégré de produits et de services de sécurité, infusé de capacités dynamiques d'IA et d'automatisation. Ce portefeuille, qui repose sur les recherches du mondialement célèbre IBM X-Force®, permet aux organisations de prévoir les menaces, de protéger les données à mesure qu'elles se déplacent et de réagir avec rapidité et précision sans entraver l'innovation commerciale. Des milliers d'organisations font confiance à IBM en tant que partenaire pour l'évaluation, la stratégie, la mise en œuvre et la gestion des transformations en matière de sécurité. IBM compte parmi les plus grandes organisations mondiales dédiées à la recherche, au développement et à la conception de solutions de sécurité, gère plus de 150 milliards d’évènements de sécurité par jour dans plus de 130 pays, et possède plus de 10 000 brevets dans le domaine de la sécurité. Pour de plus amples informations, rendez-vous sur https://www-03.ibm.com/security/fr-fr/, suivez IBMSecurity sur Twitter ou consultez le blog IBM Security Intelligence.
+ 
+Par Xavier Vasques, CTO d’IBM France, le 12 juillet 2023 : nous annonçons aujourd'hui que nous avons commencé à déployer IBM watsonx - notre plateforme d'IA et de données prête pour l'entreprise. Présentée en avant-première lors d’IBM THINK en mai, watsonx comprend trois produits pour aider les entreprises à accélérer et mettre à l’échelle l'IA - le studio watsonx.ai pour les nouveaux modèles de fondation, l'IA générative et le machine learning (désormais disponible) ; l’entrepôt de données polyvalent watsonx.data, conçu sur une architecture Lakehouse ouverte (désormais disponible) ; et la série d'outils watsonx.governance pour aider à concevoir des flux de travail d'IA de manière responsable, transparente et explicable (à venir plus tard cette année).
+
+ 
+
+Innover avec les clients et les partenaires
+
+Watsonx permet aux clients et aux partenaires de spécialiser et de déployer des modèles pour différents cas d'usage d'entreprise ou de concevoir leurs propres modèles. À ce jour, la plateforme a été façonnée par plus de 150 entreprises de différents secteurs - des télécommunications à la banque - qui ont participé aux programmes bêta et de prévisualisation technologique. Découvrez plus de 40 logos et quelques premiers témoignages partagés ici.
+
+ 
+
+Les entreprises sont enthousiastes à l'idée d'exploiter les modèles de fondation et le machine learning en un seul endroit, avec leurs propres données, pour accélérer les applications d'IA générative.
+
+ 
+
+« Le lancement de watsonx par IBM a été une prise de conscience. » a déclaré Sean Im, Samsung SDS America.  « Cela nous a incités à explorer l'immense potentiel des capacités d'IA générative de watson.ai afin de proposer des innovations sans précédent à nos clients. »
+
+ 
+
+« Dans un environnement où l'intégration avec nos systèmes et l'interconnexion transparente avec divers logiciels sont primordiales, watsonx.ai apparaît comme une solution convaincante », a déclaré Atsushi Hasegawa, Chief Engineer, Honda R&D. « Sa flexibilité inhérente et ses capacités de déploiement agile, associées à un engagement solide en matière de sécurité de l'information, accentuent son attrait. »
+
+ 
+
+Citi, une banque mondiale de premier plan au service de plus de 200 millions de clients, est ravie d'explorer les possibilités de l'IA générative et des modèles de fondation au sein de watsonx.
+
+ 
+
+« Nous étudions l'utilisation éventuelle des modèles de langage de grande taille (LLM). Je pense qu'il s'agit là d'un potentiel énorme », a déclaré Marc Sabino, MD, Internal Audit, Citi Bank. « Le principal cas d'usage auquel je pense en interne est de savoir comment utiliser un LLM pour relier vos opérations à vos politiques internes et à vos réglementations. »
+
+ 
+
+IBM travaille également avec un écosystème croissant de partenaires pour co-créer et innover dans différents secteurs et cas d'usage - de l'espace au sport. C’est le cas de la collaboration avec la NASA pour concevoir le premier modèle de fondation pour l'analyse des données géospatiales, et de Wimbledon où watsonx a été utilisé pour produire des commentaires de tennis.
+
+ 
+
+Faciliter la tâche des créateurs d'IA
+
+Aujourd'hui, dans watsonx.ai, les créateurs d’IA peuvent exploiter des modèles d’IBM et de la communauté Hugging Face pour toute une série de tâches de développement de l'IA. Les modèles sont pré-entraînés pour prendre en charge une gamme de tâches de type traitement du langage naturel (NLP), notamment la réponse aux questions, la génération et la synthèse de contenu, la classification et l'extraction de texte. Les prochaines versions donneront accès à une plus grande variété de modèles de fondation propriétaires entraînés par IBM pour une spécialisation efficace des domaines et des tâches.
+
+ 
+
+Pour répondre au besoin mondial des modèles de fondation, IBM a annoncé de nouvelles offres d’accès à des GPUs sur IBM Cloud, une infrastructure adaptée à l'IA conçue pour prendre en charge les applications d’entreprises intensives en calcul. Dans le courant de l'année, IBM devrait proposer une infrastructure complète de haute performance, flexible et optimisée pour l'IA, fournie en mode as a service sur IBM Cloud, pour à la fois l'entraînement et l'utilisation de modèles de fondation.
+
+ 
+
+Jusqu'aux données
+
+Conçu pour aider les clients à surmonter les défis omniprésents liés au volume, à la complexité, au coût et à la gouvernance des données lors de la mise à l'échelle des applications d'IA, watsonx.data permet aux utilisateurs d'accéder à leurs données dans les environnements Cloud et sur site par le biais d'un point d'entrée unique.
+
+ 
+
+Et ce n'est plus seulement une question de data scientists et d'ingénieurs - watsonx.data permet aux utilisateurs non techniques d'accéder en libre-service à leurs propres données de haute qualité et fiables dans une plateforme collaborative unique, tout en les aidant à mettre en oeuvre leurs processus de sécurité et de conformité grâce à une gouvernance centralisée et une application locale automatisée des politiques. 
+
+ 
+
+Plus tard dans l'année, watsonx.data s'appuiera sur les modèles de fondation de watsonx.ai pour aider à simplifier et accélérer la façon dont les utilisateurs interagissent avec les données, en leur donnant la possibilité d'utiliser le langage naturel pour découvrir, augmenter, affiner et visualiser les données et les métadonnées dans une expérience utilisateur conversationnelle.
+
+ 
+
+Que se passe-t-il ensuite ? Gardez un œil sur watsonx
+
+Au cours de l'année à venir, watsonx continuera d'évoluer et nous prévoyons d'effectuer des mises à jour importantes. Nous nous concentrerons sur l’élargissement des cas d'usage des modèles de fondation des entreprises au-delà du NLP et en opérationnalisant des modèles de plus de 100 milliards de paramètres pour des cas d'usage sur mesure et ciblés, ouvrant ainsi la voie à une adoption plus large par les entreprises.
+
+ 
+
+Nous mettrons également à profit la puissance de nos capacités de gouvernance de l'IA - en aidant les organisations à mettre en œuvre une gouvernance du cycle de vie de bout en bout, à atténuer les risques et à gérer la conformité aux réglementations croissantes de l'industrie et en matière d’IA. La gouvernance de l'IA ne devrait jamais être une réflexion après coup, c'est pourquoi nous encourageons nos clients à commencer la gouvernance de leurs modèles de machine learning et de leurs modèles de fondation dès le départ.
+
+ 
+
+L’entité watsonx d'IBM Consulting apporte une expertise sur les couches technologiques de l'IA générative ainsi qu'une expérience industrie qui peut aider à accélérer les transformations métier des clients. De la même manière que nous avons établi avec succès notre activité de services de Cloud hybride basée sur la plateforme Red Hat® OpenShift®, IBM Consulting a l'intention d'être le principal fournisseur de services de conseil pour watsonx.
+
+ 
+
+Les entreprises exigent que l'IA produise des résultats précis et fiables, qu'elle puisse s'adapter à tous les Clouds et qu'elle soit facilement adaptée aux domaines et aux cas d'usage de l'entreprise. Watsonx est conçu pour les aider à répondre à ces besoins. Mettons l'IA au travail et améliorons le monde - ensemble.
+
+ 
+
+Explorez ibm.com/watsonx
+
+
+ 
+Les déclarations d'IBM concernant ses orientations et intentions futures sont sujettes à modification ou retrait sans préavis et ne représentent que des buts et des objectifs.
